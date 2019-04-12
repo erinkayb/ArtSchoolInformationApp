@@ -68,3 +68,8 @@ C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\obj\De
 C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\obj\Debug\netcoreapp2.2\ArtSchoolApp.dll
 C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\obj\Debug\netcoreapp2.2\ArtSchoolApp.pdb
 C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\obj\Debug\netcoreapp2.2\ArtSchoolApp.csproj.CopyComplete
+C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Create.g.cshtml.cs
+C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Delete.g.cshtml.cs
+C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Details.g.cshtml.cs
+C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Edit.g.cshtml.cs
+C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Index.g.cshtml.cs
