@@ -12967,11 +12967,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erin\\documents\\Visual studio 2017\\LearnCS\\ArtSchoolApp\\ArtSchoolApp.csproj",
+      "projectUniqueName": "C:\\Users\\erin\\Documents\\Visual Studio 2017\\LearnCS\\ArtSchool\\ArtSchoolApp\\ArtSchoolApp.csproj",
       "projectName": "ArtSchoolApp",
-      "projectPath": "C:\\Users\\erin\\documents\\Visual studio 2017\\LearnCS\\ArtSchoolApp\\ArtSchoolApp.csproj",
+      "projectPath": "C:\\Users\\erin\\Documents\\Visual Studio 2017\\LearnCS\\ArtSchool\\ArtSchoolApp\\ArtSchoolApp.csproj",
       "packagesPath": "C:\\Users\\erin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erin\\documents\\Visual studio 2017\\LearnCS\\ArtSchoolApp\\obj\\",
+      "outputPath": "C:\\Users\\erin\\Documents\\Visual Studio 2017\\LearnCS\\ArtSchool\\ArtSchoolApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
