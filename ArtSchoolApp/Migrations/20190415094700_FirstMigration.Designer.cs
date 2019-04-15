@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ArtSchoolApp.Migrations
 {
     [DbContext(typeof(SchoolContext))]
-    [Migration("20190412140347_ComplexDataModel")]
-    partial class ComplexDataModel
+    [Migration("20190415094700_FirstMigration")]
+    partial class FirstMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -66,6 +66,10 @@ namespace ArtSchoolApp.Migrations
 
                     b.Property<string>("Name")
                         .HasMaxLength(50);
+
+                    b.Property<byte[]>("RowVersion")
+                        .IsConcurrencyToken()
+                        .ValueGeneratedOnAddOrUpdate();
 
                     b.Property<DateTime>("StartDate");
 
