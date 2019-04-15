@@ -40,7 +40,6 @@ C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\bin\De
 C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\bin\Debug\netcoreapp2.2\ArtSchoolApp.pdb
 C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\bin\Debug\netcoreapp2.2\ArtSchoolApp.Views.dll
 C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\bin\Debug\netcoreapp2.2\ArtSchoolApp.Views.pdb
-C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\obj\Debug\netcoreapp2.2\ArtSchoolApp.csprojAssemblyReference.cache
 C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\obj\Debug\netcoreapp2.2\ArtSchoolApp.csproj.CoreCompileInputs.cache
 C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\obj\Debug\netcoreapp2.2\ArtSchoolApp.RazorAssemblyInfo.cache
 C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\obj\Debug\netcoreapp2.2\ArtSchoolApp.RazorAssemblyInfo.cs
@@ -78,3 +77,9 @@ C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\obj\De
 C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Details.g.cshtml.cs
 C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Edit.g.cshtml.cs
 C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\obj\Debug\netcoreapp2.2\Razor\Views\Instructors\Index.g.cshtml.cs
+C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Create.g.cshtml.cs
+C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Delete.g.cshtml.cs
+C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Details.g.cshtml.cs
+C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Edit.g.cshtml.cs
+C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Index.g.cshtml.cs
+C:\Users\erin\Documents\Visual Studio 2017\LearnCS\ArtSchool\ArtSchoolApp\obj\Debug\netcoreapp2.2\ArtSchoolApp.csprojAssemblyReference.cache
